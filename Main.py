@@ -1,6 +1,7 @@
 a = 15
 b = 45
 j = 40
-c = a+b+j
+p = 2
+c = (a+b+j)/p
 
 print("O valor é ", c)
