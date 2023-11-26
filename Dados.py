@@ -30,3 +30,6 @@ grafico_lojas = px.bar(table_lojas, x=table_lojas.index, y="Faturamento")
 grafico_produtos.show()
 grafico_faturamento.show()
 grafico_lojas.show()
+
+
+Print ("FIM !!!")
